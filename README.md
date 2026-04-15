@@ -20,5 +20,7 @@ This matrix evaluates the accuracy of our predictions on the test set.
 3. Performance
 Accuracy: 100% (The model perfectly classified the provided sample dataset).
 Key Predictors: Cloud Cover and Temperature were found to be the most significant factors in this dataset.
+
 Conclusion
-This project successfully visualizes the decision-making process of a supervised learning algorithm. It demonstrates that even with a simple tree structure, high accuracy can be achieved on well-structured environmental data.
+This project successfully visualizes the decision-making process of a supervised learning algorithm. 
+It demonstrates that even with a simple tree structure, high accuracy can be achieved on well-structured environmental data.
